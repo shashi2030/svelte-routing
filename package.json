@@ -16,7 +16,7 @@
     "webpack-dev-server": "^3.3.1"
   },
   "dependencies": {
-    "svelte": "3.1.0",
+    "svelte": "4.2.19",
     "svero": "^0.2.4"
   },
   "scripts": {
